@@ -1,1 +1,1 @@
-# First_hmw
+Maching learning course, MSU.
